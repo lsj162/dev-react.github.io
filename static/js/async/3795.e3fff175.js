@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([["3795"],{6951:function(e,n,t){t.r(n),t.d(n,{default:()=>d});var c=t(4132),r=t(8428);let d=function(){return(0,c.jsxs)(c.Fragment,{children:[(0,c.jsx)("p",{children:"这个子节点被放置在父节点 div 中。"}),(0,r.createPortal)((0,c.jsx)("p",{children:"这个子节点被放置在 document body 中。"}),document.body)]})}}}]);

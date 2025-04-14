@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([["6551"],{5:function(e,n,p){p.r(n),p.d(n,{default:()=>r});var s=p(4132);let r=function(){return(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)("h1",{children:"App"}),(0,s.jsx)("p",{})]})}}}]);

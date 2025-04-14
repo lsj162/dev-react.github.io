@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([["2015"],{3963:function(e,t,n){n.r(t),n.d(t,{default:()=>r});var a=n(4132);let r=function(){return(0,a.jsx)(a.Fragment,{children:"createRoot"})}}}]);

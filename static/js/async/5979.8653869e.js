@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([["5979"],{4271:function(e,u,n){n.r(u),n.d(u,{default:()=>s});var a=n(4132),l=n(9546);let s=function(){return(0,l.useDebugValue)("Offline"),(0,a.jsx)(a.Fragment,{children:(0,a.jsx)("h1",{children:"useDebugValue"})})}}}]);

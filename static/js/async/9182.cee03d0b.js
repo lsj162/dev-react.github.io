@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([["9182"],{1595:function(e,a,p){p.r(a),p.d(a,{default:()=>n});var l=p(4132);let n=()=>(0,l.jsx)(l.Fragment,{children:"lazy"})}}]);
